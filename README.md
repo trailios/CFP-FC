@@ -1,5 +1,5 @@
 # CFP-FC
-FunCaptcha-CFP
+FunCaptcha-CFP GEN
 
 Fully working Funcaptcha CFP generator
 
